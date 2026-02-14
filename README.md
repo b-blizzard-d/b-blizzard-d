@@ -4,7 +4,7 @@
 
 **Junior Front-end разработчик • Front-end • UX • UI**
 
-<img src="./images/logo.png" alt="avatar" height="140" style="border-radius: 999px;" />
+<img src="/images/blizzard.png" alt="My Avatar" height="140" style="border-radius: 999px;" />
 
 </br>
 
