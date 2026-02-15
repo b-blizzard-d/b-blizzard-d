@@ -4,8 +4,9 @@
 
 **Junior Front-end разработчик • Front-end • UX • UI**
 
-<img src="/images/blizzard.jpg" alt="My Avatar" height="140" style="border-radius: 999px;" />
+<img src="/images/blizzard.jpg" alt="My Avatar" height="140" />
 
+</br>
 </br>
 
 <img src="https://img.shields.io/badge/Status-Student-8957e5?style=flat" height="25" />
@@ -77,3 +78,4 @@
 - 🧷 GitHub: **[@b_blizzard_d](https://github.com/b_blizzard_d)**
 
 [tech_tools_anchor]: #tech_tools_anchor
+
